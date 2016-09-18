@@ -1,0 +1,19 @@
+{
+  "name": "aribts-b25",
+  "version": "0.0.1",
+  "description": "B25 **Test Program** for aribts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aribts"
+  ],
+  "author": "rndomhack",
+  "license": "MIT",
+  "dependencies": {
+    "aribts": "^2.1.2",
+    "multi2": "^1.0.0",
+    "pcsclite": "^0.4.9"
+  }
+}
